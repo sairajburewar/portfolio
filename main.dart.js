@@ -57002,26 +57002,27 @@ return M.bi(f,T.k8(C.bd,H.b([M.bi(f,T.dg(H.b([r,n,m,k,j,q,p,T.dj(h,C.B,C.G,C.b7)
 G.t1.prototype={
 ak:function(){return new G.IB(C.k)}}
 G.IB.prototype={
-D:function(a,b){var s,r,q,p,o,n,m,l,k,j,i,h,g=null,f=t.w,e=b.E(f).f.a.b,d=b.E(f).f.a.a
-f=X.adp(C.eC,new L.kJ("assets/website_cover_lq.png",g,g))
-s=T.bl(g,e*0.2,g)
-r=e*0.03
-q=t.Y
-p=T.dj(H.b([L.bf("HEY THERE! ",B.bE(g,e*0.025,C.ab,g,g,g),g,g),U.t6("assets/hi.gif",r)],q),C.B,C.G,C.b7)
-o=e*0.02
-n=T.bl(g,o,g)
-m=e*0.055
-l=L.bf("Sairaj",B.bE(g,m,C.X,g,1.1,g),g,g)
-m=L.bf("Burewar",B.bE(g,m,C.ag,g,g,g),g,g)
-o=T.bl(g,o,g)
-k=L.t5(C.ih,$.dZ(),g)
-j=P.b1(0,50,0)
-i=B.bE(g,r,C.ab,g,g,g)
-i=T.dj(H.b([k,U.afe(!0,j,H.b([" Flutter Developer  "," Technical Writer  "," UI/UX Enthusiast  "],t.i),i)],q),C.B,C.b6,C.aC)
-j=T.bl(g,e*0.035,g)
-k=H.b([],q)
-for(h=0;h<6;++h)k.push(new L.vv(C.iv[h],C.iD[h],r,2,g))
-return M.bi(g,T.k8(C.bd,H.b([M.bi(g,T.dg(H.b([s,p,n,l,m,o,i,j,T.dj(k,C.B,C.G,C.b7)],q),C.B,C.G),g,g,g,new V.aA(d*0.07,e*0.12,0,0),g,g)],q),C.br),g,new S.ds(g,f,g,g,g,g,C.a_),e,g,g,d)}}
+D:function(a,b){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=null,e=t.w,d=b.E(e).f.a.b,c=b.E(e).f.a.a
+e=X.adp(C.eC,new L.kJ("assets/website_cover_lq.png",f,f))
+s=c*0.07
+r=T.bl(f,d*0.2,f)
+q=d*0.03
+p=t.Y
+o=T.dj(H.b([L.bf("HEY THERE! ",B.bE(f,d*0.025,C.ab,f,f,f),f,f),U.t6("assets/hi.gif",q)],p),C.B,C.G,C.b7)
+n=d*0.02
+m=T.bl(f,n,f)
+l=d*0.055
+k=L.bf("Sairaj",B.bE(f,l,C.X,f,1.1,f),f,f)
+l=L.bf("Burewar",B.bE(f,l,C.ag,f,f,f),f,f)
+n=T.bl(f,n,f)
+j=L.t5(C.ih,$.dZ(),f)
+i=P.b1(0,50,0)
+h=B.bE(f,q,C.ab,f,f,f)
+h=T.dj(H.b([j,U.afe(!0,i,H.b([" Flutter Developer  "," Technical Writer  "," UI/UX Enthusiast  "],t.i),h)],p),C.B,C.b6,C.aC)
+i=T.bl(f,d*0.035,f)
+j=H.b([],p)
+for(g=0;g<6;++g)j.push(new L.vv(C.iv[g],C.iD[g],q,2,f))
+return M.bi(f,T.k8(C.bd,H.b([M.bi(f,T.dg(H.b([r,o,m,k,l,n,h,i,T.dj(j,C.B,C.G,C.b7)],p),C.B,C.G),f,f,f,new V.aA(s,s,s,s),f,f)],p),C.br),f,new S.ds(f,e,f,f,f,f,C.a_),d,f,f,c)}}
 F.tz.prototype={
 ak:function(){return new F.J3(F.v1(25,!0),new A.Tr(),new N.tb(new B.ef(H.b([],t.zt),new P.bd(t.V))),H.b(["Home","About","Services","Projects","Contact"],t.i),H.b([C.ie,C.nF,C.nI,C.nC,C.ig],t.nD),C.k)}}
 F.J3.prototype={
